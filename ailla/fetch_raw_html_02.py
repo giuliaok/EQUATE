@@ -41,6 +41,6 @@ def crawl_site(base_url, start_id, end_id):
 
 
 base_url = "https://www.ailla.utexas.org/sets"
-start_id = 3000
-end_id = 4000
+start_id = 12000
+end_id = 13000
 crawl_site(base_url, start_id, end_id)
