@@ -24,7 +24,7 @@ def fetch_html(url, retries=3, timeout=5000):
 
 def crawl_site(base_url, start_id, end_id):
     """Crawl the website from start_id to end_id."""
-    for set_id in range(start_id, end_id + 1):
+    for set_id in range(start_id, end_id):
         file_name = f"set_{set_id}.html"
         if os.path.exists(file_name):
 #             print(f"{file_name} already exists. Skipping download.")
