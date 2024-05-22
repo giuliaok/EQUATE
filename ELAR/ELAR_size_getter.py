@@ -58,6 +58,7 @@ def parallelize_dataframe_and_save(df, func, n_cores=mp.cpu_count()):
                 'Content_Dispositions': content_dispositions
             })
             df_partial.to_csv(f'results_length_partial_{i}.csv', index=False)
+            print('saved one')
             partial_results = []  # Reset the partial results after saving
 
     pool.close()
@@ -65,21 +66,28 @@ def parallelize_dataframe_and_save(df, func, n_cores=mp.cpu_count()):
 
     if partial_results:
         content_lengths, content_dispositions = zip(*partial_results)
+        flat_content_lengths = [item for sublist in content_lengths for item in sublist]
+        flat_content_dispositions = [item for sublist in content_dispositions for item in sublist]
         df_partial = pd.DataFrame({
-            'URL_List': df['URL_List'][:len(results)],
-            'Content_Lengths': content_lengths,
-            'Content_Dispositions': content_dispositions
+            'File_URLs': df['File_URLs'][len(df) - len(flat_content_lengths):],
+            'Content_Lengths': flat_content_lengths,
+            'Content_Dispositions': flat_content_dispositions
         })
         df_partial.to_csv('results_length_final.csv', index=False)
+        print('Saved final results')
+    else:
+        print('No results to save')
 
     return results
 
 if __name__ == "__main__":
 
-    df = pd.read_csv('results_file_url_partial_9100.csv') 
+    df = pd.read_csv('/Users/go202/Desktop/EQUATE/output.csv') 
     df['File_URLs'] = df['File_URLs'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else [])
+    df = df[50:len(df)]
 
     all_results = parallelize_dataframe_and_save(df, process_row)
+    print(all_results)
 
     # Combine results into a final DataFrame
     content_lengths, content_dispositions = zip(*all_results)
