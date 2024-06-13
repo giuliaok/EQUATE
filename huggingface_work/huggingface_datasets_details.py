@@ -7,6 +7,7 @@ from itertools import product
 import json
 from multiprocessing import Pool
 import time
+import sys
 
 def extract_huggingface_languages(url):
     html_text = requests.get(url).text
@@ -148,19 +149,31 @@ def parallelize_dataframe_processing(df, process_row, num_processes=multiprocess
 
 if __name__ == "__main__":
 
+    '''
+        df = extract_huggingface_languages('https://huggingface.co/languages')
+        tasks = extract_huggingface_tasks('https://huggingface.co/datasets?sort=trending')
 
-    df = extract_huggingface_languages('https://huggingface.co/languages')
-    tasks = extract_huggingface_tasks('https://huggingface.co/datasets?sort=trending')
+        languages = df['ISO Code'].to_list()
+        # Define lists of languages and pipeline tags
+        combinations = list(product(languages, tasks))
 
-    languages = df['ISO Code'].to_list()
-    # Define lists of languages and pipeline tags
-    combinations = list(product(languages, tasks))
+        df = pd.DataFrame(combinations, columns=["Language", "Pipeline_Tag"])
+    '''
+    input_file = sys.argv[1]
+    output_file = sys.argv[2]
 
-    df = pd.DataFrame(combinations, columns=["Language", "Pipeline_Tag"])
+    # Read the input CSV file
+    df = pd.read_csv(input_file)
 
+    # Process the dataframe
     final_df = parallelize_dataframe_processing(df, process_row)
+
+    # Save the processed dataframe to the output CSV file
+    final_df.to_csv(output_file, index=False)
+
+    #final_df = parallelize_dataframe_processing(df, process_row)
  
-    final_df.to_csv('huggingface_datasets.csv') 
+    #final_df.to_csv('huggingface_datasets.csv') 
      #result_df = get_data_for_combinations(languages, tasks)
     #result_df['datasets_count'] = result_df['response'].apply(lambda x: len(x['datasets']))
     #result_df['sum'] = result_df.groupby(['language', 'pipeline_tag'])['datasets_count'].transform('sum')
