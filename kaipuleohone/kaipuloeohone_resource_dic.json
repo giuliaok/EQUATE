@@ -1,0 +1,1672 @@
+{
+    "Banjarese": {
+        "audio_file_count": 3,
+        "audio_size": 78947287.04,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "Hawaiian": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 21,
+        "document_size": 2052423.68
+    },
+    "Hokkien": {
+        "audio_file_count": 1,
+        "audio_size": 229008998.4,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "Kirundi": {
+        "audio_file_count": 8,
+        "audio_size": 89177896.96,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "Marshallese": {
+        "audio_file_count": 2,
+        "audio_size": 39877345.28,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "Sun": {
+        "audio_file_count": 3,
+        "audio_size": 1398716497.92,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 1,
+        "video_size": 3124588707.84,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "Telugu": {
+        "audio_file_count": 6,
+        "audio_size": 88258641.91999999,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "Xiang Chinese": {
+        "audio_file_count": 1,
+        "audio_size": 93606379.52,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "Yamben": {
+        "audio_file_count": 1,
+        "audio_size": 47259320.32,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "abz": {
+        "audio_file_count": 1,
+        "audio_size": 373712486.4,
+        "image_file_count": 2,
+        "image_size": 2668165.12,
+        "video_file_count": 1,
+        "video_size": 1975684956.16,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "ady": {
+        "audio_file_count": 44,
+        "audio_size": 3475222036.48,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 252876.8
+    },
+    "akl": {
+        "audio_file_count": 2,
+        "audio_size": 188135505.92000002,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 1,
+        "video_size": 206286356.48,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "akt": {
+        "audio_file_count": 17,
+        "audio_size": 14142847057.92,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "ali": {
+        "audio_file_count": 1,
+        "audio_size": 153008209.92,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "ami": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 388203806.72
+    },
+    "ase": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 80,
+        "video_size": 45176481382.4,
+        "document_file_count": 1,
+        "document_size": 290203893.76
+    },
+    "aut": {
+        "audio_file_count": 4,
+        "audio_size": 5443871047.68,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 1996771819.52
+    },
+    "avb": {
+        "audio_file_count": 11,
+        "audio_size": 10241053818.880001,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 2,
+        "video_size": 4842575626.24,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "bbl": {
+        "audio_file_count": 109,
+        "audio_size": 18157613875.2,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 60,
+        "video_size": 27787683430.4,
+        "document_file_count": 42,
+        "document_size": 32721817.599999998
+    },
+    "bbn": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 129054.72
+    },
+    "bek": {
+        "audio_file_count": 403,
+        "audio_size": 125308900474.88,
+        "image_file_count": 7,
+        "image_size": 59496202.24,
+        "video_file_count": 40,
+        "video_size": 43143145717.76,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "bho": {
+        "audio_file_count": 2,
+        "audio_size": 78601256.96,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "bhw": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 1,
+        "video_size": 62746787.84,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "bik": {
+        "audio_file_count": 2,
+        "audio_size": 132602920.96000001,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 1,
+        "video_size": 64067993.6,
+        "document_file_count": 1,
+        "document_size": 338892.8
+    },
+    "bis": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 10,
+        "document_size": 7701719.04
+    },
+    "blr": {
+        "audio_file_count": 12,
+        "audio_size": 6666804264.96,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "bnn": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 4,
+        "document_size": 318609817.6
+    },
+    "bny": {
+        "audio_file_count": 2,
+        "audio_size": 310923755.52000004,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 751682191.36
+    },
+    "bpa": {
+        "audio_file_count": 69,
+        "audio_size": 889874073.6,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "bql": {
+        "audio_file_count": 3,
+        "audio_size": 1795057254.4,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "bug": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 2,
+        "document_size": 148436418.56
+    },
+    "buq": {
+        "audio_file_count": 29,
+        "audio_size": 6207999836.16,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 103208.96
+    },
+    "bzj": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 3386900.48
+    },
+    "cab": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 2,
+        "document_size": 6564085.76
+    },
+    "cam": {
+        "audio_file_count": 1,
+        "audio_size": 152389550.08,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "cha": {
+        "audio_file_count": 18,
+        "audio_size": 23402549084.16,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 6,
+        "document_size": 1047778641.9200001
+    },
+    "chk": {
+        "audio_file_count": 2,
+        "audio_size": 434739609.59999996,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "ckb": {
+        "audio_file_count": 1,
+        "audio_size": 23645388.8,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "ckl": {
+        "audio_file_count": 14,
+        "audio_size": 2884150231.04,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 12,
+        "video_size": 6852968448.0,
+        "document_file_count": 1,
+        "document_size": 16420700.16
+    },
+    "cmn": {
+        "audio_file_count": 3,
+        "audio_size": 304380641.28,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "cqd": {
+        "audio_file_count": 1,
+        "audio_size": 331968675.84,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "crl": {
+        "audio_file_count": 38,
+        "audio_size": 47326083153.92,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 38,
+        "document_size": 13167226.88
+    },
+    "ddg": {
+        "audio_file_count": 267,
+        "audio_size": 20789822750.72,
+        "image_file_count": 1,
+        "image_size": 2589982.72,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 22,
+        "document_size": 94238.31999999999
+    },
+    "dhv": {
+        "audio_file_count": 1,
+        "audio_size": 516014735.36,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 3,
+        "video_size": 11811160064.0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "dmc": {
+        "audio_file_count": 2,
+        "audio_size": 1721185075.2,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "dmk": {
+        "audio_file_count": 40,
+        "audio_size": 8714924851.2,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 95,
+        "video_size": 35254582640.64,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "eng": {
+        "audio_file_count": 181,
+        "audio_size": 70434538127.36,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 95,
+        "video_size": 79665351884.8,
+        "document_file_count": 238,
+        "document_size": 2775695295.0
+    },
+    "enq": {
+        "audio_file_count": 58,
+        "audio_size": 17696397721.6,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "fij": {
+        "audio_file_count": 217,
+        "audio_size": 142890856611.84,
+        "image_file_count": 3,
+        "image_size": 398192.64,
+        "video_file_count": 30,
+        "video_size": 14621868032.0,
+        "document_file_count": 58,
+        "document_size": 4193789508.8
+    },
+    "fra": {
+        "audio_file_count": 35,
+        "audio_size": 18973720576.0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "gah": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 39,
+        "video_size": 61799092387.840004,
+        "document_file_count": 1,
+        "document_size": 55439.36
+    },
+    "gil": {
+        "audio_file_count": 3,
+        "audio_size": 585084436.48,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 13,
+        "document_size": 2718754682.88
+    },
+    "gim": {
+        "audio_file_count": 8,
+        "audio_size": 211319521.28,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "glk": {
+        "audio_file_count": 2,
+        "audio_size": 1009768202.24,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "guc": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 2768240.64
+    },
+    "guzg": {
+        "audio_file_count": 4,
+        "audio_size": 152567808.0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "gvf (?)": {
+        "audio_file_count": 1,
+        "audio_size": 532414464.0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "hak": {
+        "audio_file_count": 1,
+        "audio_size": 4613734.4,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 1,
+        "video_size": 63375933.44,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "hau": {
+        "audio_file_count": 4,
+        "audio_size": 368668835.84,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 3,
+        "video_size": 2933517189.12,
+        "document_file_count": 1,
+        "document_size": 21957181.44
+    },
+    "haw": {
+        "audio_file_count": 18,
+        "audio_size": 1509037178.88,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 66969.6
+    },
+    "heg": {
+        "audio_file_count": 6,
+        "audio_size": 4120641536.0,
+        "image_file_count": 10,
+        "image_size": 11843164.16,
+        "video_file_count": 7,
+        "video_size": 84834328248.32,
+        "document_file_count": 4,
+        "document_size": 103424.0
+    },
+    "hmd": {
+        "audio_file_count": 2,
+        "audio_size": 579107553.28,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "hps": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 48,
+        "video_size": 55868066365.44,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "huo": {
+        "audio_file_count": 6,
+        "audio_size": 3544270766.08,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "hvn": {
+        "audio_file_count": 172,
+        "audio_size": 20943994880.0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 102,
+        "video_size": 102421967667.2,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "hwc": {
+        "audio_file_count": 668,
+        "audio_size": 403560055797.76,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "hwc||eng": {
+        "audio_file_count": 56,
+        "audio_size": 12820613693.44,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "izh": {
+        "audio_file_count": 8,
+        "audio_size": 707295969.28,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "jpn": {
+        "audio_file_count": 3,
+        "audio_size": 19744686.08,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "kcl": {
+        "audio_file_count": 18,
+        "audio_size": 8971207311.36,
+        "image_file_count": 62,
+        "image_size": 391255162.88,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 2,
+        "document_size": 16548136.959999999
+    },
+    "kem": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 748106547.2
+    },
+    "khm": {
+        "audio_file_count": 3,
+        "audio_size": 147513671.68,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "kod": {
+        "audio_file_count": 1,
+        "audio_size": 248753684.48,
+        "image_file_count": 2,
+        "image_size": 3454197.76,
+        "video_file_count": 1,
+        "video_size": 431268823.04,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "kos": {
+        "audio_file_count": 7,
+        "audio_size": 505382174.71999997,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 1,
+        "video_size": 1814623682.56,
+        "document_file_count": 14,
+        "document_size": 83798016.0
+    },
+    "koz": {
+        "audio_file_count": 2,
+        "audio_size": 1291688345.6,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "kpg": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 6,
+        "document_size": 2098819594.24
+    },
+    "kue": {
+        "audio_file_count": 42,
+        "audio_size": 4057391431.68,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 31,
+        "document_size": 272117.76
+    },
+    "kxn": {
+        "audio_file_count": 35,
+        "audio_size": 46808705269.76,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 20,
+        "video_size": 66256990371.840004,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "kyi": {
+        "audio_file_count": 4,
+        "audio_size": 2050249195.52,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "kyo": {
+        "audio_file_count": 3,
+        "audio_size": 588114821.12,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "kzi": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 3,
+        "document_size": 359294566.4
+    },
+    "let": {
+        "audio_file_count": 1,
+        "audio_size": 999922073.6,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "lif": {
+        "audio_file_count": 2,
+        "audio_size": 80289464.32,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "ljl": {
+        "audio_file_count": 2,
+        "audio_size": 88373985.28,
+        "image_file_count": 1,
+        "image_size": 5588910.08,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "lnd": {
+        "audio_file_count": 1,
+        "audio_size": 71366082.56,
+        "image_file_count": 16,
+        "image_size": 17002526.72,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 4,
+        "document_size": 336131522.56
+    },
+    "los": {
+        "audio_file_count": 4,
+        "audio_size": 2334706892.8,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "lpo": {
+        "audio_file_count": 1,
+        "audio_size": 210218516.48,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "mah": {
+        "audio_file_count": 73,
+        "audio_size": 17942624337.92,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 6,
+        "document_size": 1019335321.6
+    },
+    "mar": {
+        "audio_file_count": 1,
+        "audio_size": 9363783.68,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "mbf": {
+        "audio_file_count": 173,
+        "audio_size": 127362966487.04001,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 6,
+        "document_size": 3507875.84
+    },
+    "mdx": {
+        "audio_file_count": 48,
+        "audio_size": 2117033000.96,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 3,
+        "document_size": 5065349.12
+    },
+    "mel": {
+        "audio_file_count": 4,
+        "audio_size": 767389859.84,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 214695936.0
+    },
+    "mell|eng": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 2,
+        "document_size": 80048291.83999999
+    },
+    "mhp": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 6,
+        "document_size": 440265605.12
+    },
+    "mia": {
+        "audio_file_count": 2,
+        "audio_size": 19660800.0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "min": {
+        "audio_file_count": 5,
+        "audio_size": 133080391.67999999,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "mkj": {
+        "audio_file_count": 12,
+        "audio_size": 1868772147.2,
+        "image_file_count": 6,
+        "image_size": 5975808.0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 48,
+        "document_size": 1677957181.44
+    },
+    "mkl": {
+        "audio_file_count": 1,
+        "audio_size": 208530309.12,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "mkr": {
+        "audio_file_count": 8,
+        "audio_size": 3535735357.44,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "mkz": {
+        "audio_file_count": 1,
+        "audio_size": 516601937.92,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 747.0
+    },
+    "mnv": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 247132.16
+    },
+    "mqy": {
+        "audio_file_count": 3,
+        "audio_size": 428479610.88,
+        "image_file_count": 4,
+        "image_size": 8540098.559999999,
+        "video_file_count": 3,
+        "video_size": 1224243937.28,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "mrl": {
+        "audio_file_count": 105,
+        "audio_size": 7781650268.16,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "mrq": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 2111706234.88
+    },
+    "mrv": {
+        "audio_file_count": 22,
+        "audio_size": 24187177533.44,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "mrw": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 367800.32
+    },
+    "mvi": {
+        "audio_file_count": 32,
+        "audio_size": 21191007928.32,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 24,
+        "video_size": 61753723453.44,
+        "document_file_count": 4,
+        "document_size": 16240.640000000001
+    },
+    "mxr": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 2,
+        "document_size": 108380.16
+    },
+    "nge": {
+        "audio_file_count": 1,
+        "audio_size": 34749808.64,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "ngm": {
+        "audio_file_count": 2,
+        "audio_size": 255003197.44,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "niu": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 2214707855.3599997
+    },
+    "nkr": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 408729.6
+    },
+    "nrm": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 1229465845.76
+    },
+    "nxa": {
+        "audio_file_count": 3,
+        "audio_size": 1325966295.04,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "pau": {
+        "audio_file_count": 18,
+        "audio_size": 9845268807.68,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 24,
+        "video_size": 35498701619.2,
+        "document_file_count": 21,
+        "document_size": 158748426.24
+    },
+    "ple": {
+        "audio_file_count": 284,
+        "audio_size": 16374374072.32,
+        "image_file_count": 85,
+        "image_size": 173489018.88,
+        "video_file_count": 12,
+        "video_size": 1710185512.96,
+        "document_file_count": 12,
+        "document_size": 44676792.32
+    },
+    "pmt": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 10,
+        "document_size": 1500774400.0
+    },
+    "pnn": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 1309965025.28
+    },
+    "pns": {
+        "audio_file_count": 133,
+        "audio_size": 33903597322.24,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "pon": {
+        "audio_file_count": 22,
+        "audio_size": 4444368404.48,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 23,
+        "document_size": 5144402063.36
+    },
+    "pri": {
+        "audio_file_count": 1,
+        "audio_size": 216342200.32,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "pse": {
+        "audio_file_count": 4,
+        "audio_size": 140593070.07999998,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 2,
+        "video_size": 98429829.12,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "puw": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 114257.92
+    },
+    "puy": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 3,
+        "document_size": 2364098.56
+    },
+    "rar": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 1911491133.44
+    },
+    "rtm": {
+        "audio_file_count": 4,
+        "audio_size": 1766116556.8,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 1637928140.8
+    },
+    "rug": {
+        "audio_file_count": 16,
+        "audio_size": 476760156.15999997,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 13,
+        "video_size": 9099028725.76,
+        "document_file_count": 10,
+        "document_size": 3698411.52
+    },
+    "rug$eng": {
+        "audio_file_count": 34,
+        "audio_size": 11949005864.96,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 2,
+        "document_size": 11970.56
+    },
+    "rus": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 337346.56
+    },
+    "sas": {
+        "audio_file_count": 226,
+        "audio_size": 107746856842.16,
+        "image_file_count": 2,
+        "image_size": 7958691.84,
+        "video_file_count": 219,
+        "video_size": 655205492326.4,
+        "document_file_count": 130,
+        "document_size": 3547406970.88
+    },
+    "sbq": {
+        "audio_file_count": 1,
+        "audio_size": 451831398.4,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "sdh": {
+        "audio_file_count": 2,
+        "audio_size": 65420656.64,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "set": {
+        "audio_file_count": 10,
+        "audio_size": 3148401868.8,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 18,
+        "video_size": 16878644756.48,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "sij": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 6,
+        "document_size": 2014013.44
+    },
+    "smo": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 10,
+        "document_size": 1439789219.84
+    },
+    "snv": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 1206292316.16
+    },
+    "sov": {
+        "audio_file_count": 64,
+        "audio_size": 1590093086.72,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 2,
+        "document_size": 52766.72
+    },
+    "ssf": {
+        "audio_file_count": 4,
+        "audio_size": 2598989987.84,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "sst": {
+        "audio_file_count": 32,
+        "audio_size": 2792798289.92,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 3,
+        "video_size": 631536353.28,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "suc": {
+        "audio_file_count": 63,
+        "audio_size": 29221181194.24,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 9,
+        "video_size": 14825868492.8,
+        "document_file_count": 35,
+        "document_size": 7787776.0
+    },
+    "sun": {
+        "audio_file_count": 22,
+        "audio_size": 17147761786.88,
+        "image_file_count": 1,
+        "image_size": 2243952.64,
+        "video_file_count": 22,
+        "video_size": 104912692183.04,
+        "document_file_count": 18,
+        "document_size": 122198292.47999999
+    },
+    "tah": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 10,
+        "document_size": 1870732984.32
+    },
+    "tgl||eng": {
+        "audio_file_count": 3,
+        "audio_size": 907636899.84,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "tiz": {
+        "audio_file_count": 1,
+        "audio_size": 224930037.76,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "tox": {
+        "audio_file_count": 78,
+        "audio_size": 1682779781.1200001,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "tpi": {
+        "audio_file_count": 200,
+        "audio_size": 86782866472.96,
+        "image_file_count": 30,
+        "image_size": 160547471.36,
+        "video_file_count": 93,
+        "video_size": 1096030261084.16,
+        "document_file_count": 27,
+        "document_size": 634183587.84
+    },
+    "tpi| eng": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 1,
+        "video_size": 1964947537.92,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "tsu": {
+        "audio_file_count": 6,
+        "audio_size": 3492722769.92,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "ubl": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 5,
+        "image_size": 42152755.199999996,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "veo": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 3,
+        "document_size": 13401489.280000001
+    },
+    "vwa": {
+        "audio_file_count": 8,
+        "audio_size": 4946646794.24,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "wew": {
+        "audio_file_count": 5,
+        "audio_size": 1145936281.6,
+        "image_file_count": 7,
+        "image_size": 14768332.8,
+        "video_file_count": 5,
+        "video_size": 3997150740.4799995,
+        "document_file_count": 2,
+        "document_size": 42434.56
+    },
+    "woe": {
+        "audio_file_count": 50,
+        "audio_size": 26646224568.32,
+        "image_file_count": 3,
+        "image_size": 11733565.44,
+        "video_file_count": 55,
+        "video_size": 74599901429.76,
+        "document_file_count": 36,
+        "document_size": 4929534.28
+    },
+    "wsk": {
+        "audio_file_count": 11,
+        "audio_size": 1650573967.3600001,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 1,
+        "document_size": 51261.44
+    },
+    "wuu": {
+        "audio_file_count": 3,
+        "audio_size": 152116920.32,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "wuv": {
+        "audio_file_count": 8,
+        "audio_size": 4021509160.96,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "xkl": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 5,
+        "document_size": 295258030.08
+    },
+    "yap": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 16,
+        "document_size": 1789059399.6799998
+    },
+    "yiq": {
+        "audio_file_count": 35,
+        "audio_size": 1849866321.92,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "yko": {
+        "audio_file_count": 1,
+        "audio_size": 827253063.68,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "yla": {
+        "audio_file_count": 44,
+        "audio_size": 1368947425.28,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "yly": {
+        "audio_file_count": 1,
+        "audio_size": 142470021.12,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "yna": {
+        "audio_file_count": 12,
+        "audio_size": 568433049.6,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "yua": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 2,
+        "document_size": 7203717.12
+    },
+    "yue": {
+        "audio_file_count": 4,
+        "audio_size": 1260608552.96,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "ywq": {
+        "audio_file_count": 5,
+        "audio_size": 2007519723.52,
+        "image_file_count": 0,
+        "image_size": 0,
+        "video_file_count": 0,
+        "video_size": 0,
+        "document_file_count": 0,
+        "document_size": 0
+    },
+    "zxx": {
+        "audio_file_count": 0,
+        "audio_size": 0,
+        "image_file_count": 5,
+        "image_size": 13358858.24,
+        "video_file_count": 393,
+        "video_size": 202487869552.63998,
+        "document_file_count": 24,
+        "document_size": 84594607.03999999
+    }
+}
