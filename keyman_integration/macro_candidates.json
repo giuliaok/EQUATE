@@ -1,0 +1,840 @@
+[
+ {
+  "macro": "ara",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "aao",
+    "name": "Algerian Saharan Arabic"
+   },
+   {
+    "iso": "abv",
+    "name": "Baharna Arabic"
+   },
+   {
+    "iso": "acm",
+    "name": "Gilit Mesopotamian Arabic"
+   },
+   {
+    "iso": "acq",
+    "name": "Ta'izzi-Adeni Arabic"
+   },
+   {
+    "iso": "acw",
+    "name": "Hijazi Arabic"
+   },
+   {
+    "iso": "acx",
+    "name": "Omani Arabic"
+   },
+   {
+    "iso": "acy",
+    "name": "Cypriot Arabic"
+   },
+   {
+    "iso": "aeb",
+    "name": "Tunisian Arabic"
+   },
+   {
+    "iso": "aec",
+    "name": "Saidi Arabic"
+   },
+   {
+    "iso": "afb",
+    "name": "Gulf Arabic"
+   },
+   {
+    "iso": "ajp",
+    "name": "South Levantine Arabic"
+   },
+   {
+    "iso": "apc",
+    "name": "Levantine Arabic"
+   },
+   {
+    "iso": "apd",
+    "name": "Sudanese Arabic"
+   },
+   {
+    "iso": "arb",
+    "name": "Standard Arabic"
+   },
+   {
+    "iso": "arq",
+    "name": "Algerian Arabic"
+   },
+   {
+    "iso": "ars",
+    "name": "Najdi Arabic"
+   },
+   {
+    "iso": "ary",
+    "name": "Moroccan Arabic"
+   },
+   {
+    "iso": "arz",
+    "name": "Egyptian Arabic"
+   },
+   {
+    "iso": "auz",
+    "name": "Qashqa-Darya Arabic"
+   },
+   {
+    "iso": "ayh",
+    "name": "Hadrami Arabic"
+   },
+   {
+    "iso": "ayl",
+    "name": "Libyan Arabic"
+   },
+   {
+    "iso": "ayn",
+    "name": "Sanaani Arabic"
+   },
+   {
+    "iso": "pga",
+    "name": "South Sudanese Creole Arabic"
+   },
+   {
+    "iso": "shu",
+    "name": "Chadian Arabic"
+   }
+  ]
+ },
+ {
+  "macro": "aym",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "ayc",
+    "name": "Southern Aymara"
+   },
+   {
+    "iso": "ayr",
+    "name": "Central Aymara"
+   }
+  ]
+ },
+ {
+  "macro": "bal",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "bcc",
+    "name": "Southern Balochi"
+   },
+   {
+    "iso": "bgn",
+    "name": "Western Balochi"
+   },
+   {
+    "iso": "bgp",
+    "name": "Eastern Balochi"
+   }
+  ]
+ },
+ {
+  "macro": "doi",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "dgo",
+    "name": "Dogri"
+   }
+  ]
+ },
+ {
+  "macro": "est",
+  "keyboard_count": 3,
+  "members": [
+   {
+    "iso": "ekk",
+    "name": "Estonian"
+   },
+   {
+    "iso": "vro",
+    "name": "South Estonian"
+   }
+  ]
+ },
+ {
+  "macro": "fas",
+  "keyboard_count": 5,
+  "members": [
+   {
+    "iso": "pes",
+    "name": "Western Farsi"
+   },
+   {
+    "iso": "prs",
+    "name": "Dari"
+   }
+  ]
+ },
+ {
+  "macro": "ful",
+  "keyboard_count": 3,
+  "members": [
+   {
+    "iso": "ffm",
+    "name": "Maasina Fulfulde"
+   },
+   {
+    "iso": "fub",
+    "name": "Adamawa Fulfulde"
+   },
+   {
+    "iso": "fuc",
+    "name": "Pulaar"
+   },
+   {
+    "iso": "fuf",
+    "name": "Pular"
+   },
+   {
+    "iso": "fuh",
+    "name": "Western Niger Fulfulde"
+   },
+   {
+    "iso": "fuv",
+    "name": "Hausa States Fulfulde"
+   }
+  ]
+ },
+ {
+  "macro": "gon",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "esg",
+    "name": "Aheri Gondi"
+   },
+   {
+    "iso": "gno",
+    "name": "Northern Gondi"
+   },
+   {
+    "iso": "wsg",
+    "name": "Adilabad Gondi"
+   }
+  ]
+ },
+ {
+  "macro": "grn",
+  "keyboard_count": 2,
+  "members": [
+   {
+    "iso": "gug",
+    "name": "Paraguayan Guaraní"
+   },
+   {
+    "iso": "gui",
+    "name": "Eastern Bolivian Guaraní"
+   },
+   {
+    "iso": "gun",
+    "name": "Mbyá Guaraní"
+   },
+   {
+    "iso": "nhd",
+    "name": "Chiripá"
+   }
+  ]
+ },
+ {
+  "macro": "ipk",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "esi",
+    "name": "North Alaskan Inupiatun"
+   },
+   {
+    "iso": "esk",
+    "name": "Seward Alaska Inupiatun"
+   }
+  ]
+ },
+ {
+  "macro": "kau",
+  "keyboard_count": 4,
+  "members": [
+   {
+    "iso": "kby",
+    "name": "Manga Kanuri"
+   },
+   {
+    "iso": "knc",
+    "name": "Central Kanuri"
+   }
+  ]
+ },
+ {
+  "macro": "kpe",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "gkp",
+    "name": "Guinea Kpelle"
+   },
+   {
+    "iso": "xpe",
+    "name": "Liberia Kpelle"
+   }
+  ]
+ },
+ {
+  "macro": "lah",
+  "keyboard_count": 2,
+  "members": [
+   {
+    "iso": "hnd",
+    "name": "Southern Hindko"
+   },
+   {
+    "iso": "hno",
+    "name": "Northern Hindko"
+   },
+   {
+    "iso": "pnb",
+    "name": "Western Panjabi"
+   },
+   {
+    "iso": "skr",
+    "name": "Saraiki"
+   }
+  ]
+ },
+ {
+  "macro": "lav",
+  "keyboard_count": 4,
+  "members": [
+   {
+    "iso": "lvs",
+    "name": "Standard Latvian"
+   }
+  ]
+ },
+ {
+  "macro": "man",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "emk",
+    "name": "Eastern Maninkakan"
+   },
+   {
+    "iso": "mlq",
+    "name": "Western Maninkakan"
+   },
+   {
+    "iso": "mnk",
+    "name": "Mandinka"
+   }
+  ]
+ },
+ {
+  "macro": "ori",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "ory",
+    "name": "Odia"
+   }
+  ]
+ },
+ {
+  "macro": "orm",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "gax",
+    "name": "Borana-Arsi-Guji Oromo"
+   },
+   {
+    "iso": "gaz",
+    "name": "West Central Oromo"
+   },
+   {
+    "iso": "hae",
+    "name": "Eastern Oromo"
+   },
+   {
+    "iso": "orc",
+    "name": "Orma"
+   }
+  ]
+ },
+ {
+  "macro": "pus",
+  "keyboard_count": 2,
+  "members": [
+   {
+    "iso": "pbt",
+    "name": "Southern Pashto"
+   },
+   {
+    "iso": "pbu",
+    "name": "Northern Pashto"
+   },
+   {
+    "iso": "pst",
+    "name": "Central Pashto"
+   }
+  ]
+ },
+ {
+  "macro": "que",
+  "keyboard_count": 2,
+  "members": [
+   {
+    "iso": "qub",
+    "name": "Huallaga Huánuco Quechua"
+   },
+   {
+    "iso": "quf",
+    "name": "Lambayeque Quechua"
+   },
+   {
+    "iso": "qug",
+    "name": "Bolivar-North Chimborazo Highland Quichua"
+   },
+   {
+    "iso": "quh",
+    "name": "South Bolivian Quechua"
+   },
+   {
+    "iso": "quk",
+    "name": "Chachapoyas Quechua"
+   },
+   {
+    "iso": "qul",
+    "name": "North Bolivian Quechua"
+   },
+   {
+    "iso": "qup",
+    "name": "Southern Pastaza Quechua"
+   },
+   {
+    "iso": "qus",
+    "name": "Santiago del Estero Quichua"
+   },
+   {
+    "iso": "quw",
+    "name": "Tena Lowland Quichua"
+   },
+   {
+    "iso": "qux",
+    "name": "Yauyos Quechua"
+   },
+   {
+    "iso": "quy",
+    "name": "Ayacucho Quechua"
+   },
+   {
+    "iso": "quz",
+    "name": "Cusco Quechua"
+   },
+   {
+    "iso": "qva",
+    "name": "Ambo-Pasco Quechua"
+   },
+   {
+    "iso": "qvc",
+    "name": "Cajamarca Quechua"
+   },
+   {
+    "iso": "qve",
+    "name": "Eastern Apurímac Quechua"
+   },
+   {
+    "iso": "qvi",
+    "name": "Imbabura Highland Quichua"
+   },
+   {
+    "iso": "qvl",
+    "name": "Cajatambo North Lima Quechua"
+   },
+   {
+    "iso": "qvn",
+    "name": "North Junín Quechua"
+   },
+   {
+    "iso": "qvo",
+    "name": "Napo Lowland Quechua"
+   },
+   {
+    "iso": "qvs",
+    "name": "San Martín Quechua"
+   },
+   {
+    "iso": "qvw",
+    "name": "Huaylla Wanca Quechua"
+   },
+   {
+    "iso": "qvz",
+    "name": "Northern Pastaza Quichua"
+   },
+   {
+    "iso": "qwa",
+    "name": "Corongo Ancash Quechua"
+   },
+   {
+    "iso": "qwh",
+    "name": "Huaylas Ancash Quechua"
+   },
+   {
+    "iso": "qxa",
+    "name": "Chiquián Ancash Quechua"
+   },
+   {
+    "iso": "qxn",
+    "name": "Northern Conchucos Ancash Quechua"
+   },
+   {
+    "iso": "qxo",
+    "name": "Southern Conchucos Ancash Quechua"
+   },
+   {
+    "iso": "qxp",
+    "name": "Puno Quechua"
+   },
+   {
+    "iso": "qxr",
+    "name": "Cañar-Azuay-South Chimborazo Highland Quichua"
+   },
+   {
+    "iso": "qxu",
+    "name": "Arequipa-La Unión Quechua"
+   },
+   {
+    "iso": "qxw",
+    "name": "Jauja Wanca Quechua"
+   }
+  ]
+ },
+ {
+  "macro": "rom",
+  "keyboard_count": 2,
+  "members": [
+   {
+    "iso": "rmc",
+    "name": "Central Romani"
+   },
+   {
+    "iso": "rmf",
+    "name": "Kalo Finnish Romani"
+   },
+   {
+    "iso": "rml",
+    "name": "Baltic Romani"
+   },
+   {
+    "iso": "rmn",
+    "name": "Balkan Romani"
+   },
+   {
+    "iso": "rmo",
+    "name": "Sinte-Manus Romani"
+   },
+   {
+    "iso": "rmw",
+    "name": "Welsh Romani"
+   },
+   {
+    "iso": "rmy",
+    "name": "Vlax Romani"
+   }
+  ]
+ },
+ {
+  "macro": "sqi",
+  "keyboard_count": 2,
+  "members": [
+   {
+    "iso": "aae",
+    "name": "Arbëreshë Albanian"
+   },
+   {
+    "iso": "aat",
+    "name": "Arvanitika Albanian"
+   },
+   {
+    "iso": "aln",
+    "name": "Gheg Albanian"
+   },
+   {
+    "iso": "als",
+    "name": "Northern Tosk Albanian"
+   }
+  ]
+ },
+ {
+  "macro": "srd",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "sdc",
+    "name": "Sassarese Sardinian"
+   },
+   {
+    "iso": "sdn",
+    "name": "Gallurese Sardinian"
+   },
+   {
+    "iso": "src",
+    "name": "Logudorese Sardinian"
+   },
+   {
+    "iso": "sro",
+    "name": "Campidanese Sardinian"
+   }
+  ]
+ },
+ {
+  "macro": "swa",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "swc",
+    "name": "Congo Swahili"
+   },
+   {
+    "iso": "swh",
+    "name": "Swahili"
+   }
+  ]
+ },
+ {
+  "macro": "syr",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "aii",
+    "name": "Assyrian Neo-Aramaic"
+   },
+   {
+    "iso": "cld",
+    "name": "Chaldean Neo-Aramaic"
+   }
+  ]
+ },
+ {
+  "macro": "tmh",
+  "keyboard_count": 1,
+  "members": [
+   {
+    "iso": "taq",
+    "name": "Tamasheq"
+   },
+   {
+    "iso": "thv",
+    "name": "Tahaggart Tamahaq"
+   },
+   {
+    "iso": "thz",
+    "name": "Tayart Tamajeq"
+   },
+   {
+    "iso": "ttq",
+    "name": "Tawallammat Tamajaq"
+   }
+  ]
+ },
+ {
+  "macro": "zap",
+  "keyboard_count": 2,
+  "members": [
+   {
+    "iso": "zaa",
+    "name": "Sierra de Juárez Zapotec"
+   },
+   {
+    "iso": "zab",
+    "name": "Western Tlacolula Valley Zapotec"
+   },
+   {
+    "iso": "zac",
+    "name": "Ocotlán Zapotec"
+   },
+   {
+    "iso": "zad",
+    "name": "Cajonos Zapotec"
+   },
+   {
+    "iso": "zae",
+    "name": "Yareni Zapotec"
+   },
+   {
+    "iso": "zaf",
+    "name": "Ayoquesco Zapotec"
+   },
+   {
+    "iso": "zai",
+    "name": "Isthmus Zapotec"
+   },
+   {
+    "iso": "zao",
+    "name": "Ozolotepec Zapotec"
+   },
+   {
+    "iso": "zaq",
+    "name": "Aloápam Zapotec"
+   },
+   {
+    "iso": "zar",
+    "name": "Rincón Zapotec"
+   },
+   {
+    "iso": "zav",
+    "name": "Yatzachi Zapotec"
+   },
+   {
+    "iso": "zaw",
+    "name": "Mitla Zapotec"
+   },
+   {
+    "iso": "zca",
+    "name": "Coatecas Altas Zapotec"
+   },
+   {
+    "iso": "zpc",
+    "name": "Choapan Zapotec"
+   },
+   {
+    "iso": "zpf",
+    "name": "San Pedro Quiatoni Zapotec"
+   },
+   {
+    "iso": "zpi",
+    "name": "Santa María Quiegolani Zapotec"
+   },
+   {
+    "iso": "zpl",
+    "name": "Lachixío Zapotec"
+   },
+   {
+    "iso": "zpm",
+    "name": "Mixtepec Zapotec"
+   },
+   {
+    "iso": "zpn",
+    "name": "Santa Inés Yatzechi Zapotec"
+   },
+   {
+    "iso": "zpo",
+    "name": "Amatlán Zapotec"
+   },
+   {
+    "iso": "zpq",
+    "name": "Zoogocho Zapotec"
+   },
+   {
+    "iso": "zpr",
+    "name": "Santiago Xanica Zapotec"
+   },
+   {
+    "iso": "zps",
+    "name": "Coatlán Zapotec"
+   },
+   {
+    "iso": "zpu",
+    "name": "Yalálag Zapotec"
+   },
+   {
+    "iso": "zpv",
+    "name": "Chichicapan Zapotec"
+   },
+   {
+    "iso": "zpw",
+    "name": "Zaniza Zapotec"
+   },
+   {
+    "iso": "zpx",
+    "name": "San Baltazar Loxicha Zapotec"
+   },
+   {
+    "iso": "zpz",
+    "name": "Texmelucan Zapotec"
+   },
+   {
+    "iso": "ztg",
+    "name": "Xanaguía Zapotec"
+   },
+   {
+    "iso": "ztp",
+    "name": "Loxicha Zapotec"
+   },
+   {
+    "iso": "ztq",
+    "name": "Quioquitani-Quieri Zapotec"
+   },
+   {
+    "iso": "zts",
+    "name": "Tilquiapan Zapotec"
+   },
+   {
+    "iso": "ztu",
+    "name": "Güilá Zapotec"
+   }
+  ]
+ },
+ {
+  "macro": "zha",
+  "keyboard_count": 2,
+  "members": [
+   {
+    "iso": "zch",
+    "name": "Central Hongshuihe Zhuang"
+   },
+   {
+    "iso": "zgb",
+    "name": "Guibei Zhuang"
+   },
+   {
+    "iso": "zgn",
+    "name": "Guibian Zhuang"
+   },
+   {
+    "iso": "zhd",
+    "name": "Dai Zhuang"
+   },
+   {
+    "iso": "zhn",
+    "name": "Nong Zhuang"
+   },
+   {
+    "iso": "zlj",
+    "name": "Liujiang Zhuang"
+   },
+   {
+    "iso": "zln",
+    "name": "Lianshan Zhuang"
+   },
+   {
+    "iso": "zqe",
+    "name": "Qiubei Zhuang"
+   },
+   {
+    "iso": "zyb",
+    "name": "Yongbei Zhuang"
+   },
+   {
+    "iso": "zyg",
+    "name": "Yang Zhuang"
+   },
+   {
+    "iso": "zyj",
+    "name": "Youjiang Zhuang"
+   },
+   {
+    "iso": "zyn",
+    "name": "Yongnan Zhuang"
+   },
+   {
+    "iso": "zzj",
+    "name": "Zuojiang Zhuang"
+   }
+  ]
+ }
+]

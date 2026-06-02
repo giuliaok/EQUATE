@@ -1,0 +1,218 @@
+[
+ {
+  "macro": "ara",
+  "proposed_iso": "arb",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "arb",
+  "ver_reason": "Verified against ISO 639-3/SIL: arb is officially \"Standard Arabic\" (Modern Standard Arabic, MSA) and is the codified standard member of the ara macrolanguage. The mapping ara -> arb is correct and survives refutation for the right reason: arb is selected as THE written/literary standard, not because it is the most populous variety (by L1 speakers, Egyptian arz and other vernaculars are larger gro"
+ },
+ {
+  "macro": "aym",
+  "proposed_iso": "ayr",
+  "confidence": "medium",
+  "verifier_agree": false,
+  "final_iso": null,
+  "ver_reason": "REFUTE. The adjudication conflates \"a single standard orthography\" with \"a single standard written variety,\" and only the former is true. What Aymara has is the Alfabeto Unico / Alfabeto Unificado (Bolivia Decree 20227, 9 May 1984; Peru Resolucion Ministerial 1218ED, 18 Nov 1985) — a shared, pan-Aymara LATIN ALPHABET applicable across all dialects. That is a writing-system standard, not a codified"
+ },
+ {
+  "macro": "bal",
+  "proposed_iso": "bgn",
+  "confidence": "medium",
+  "verifier_agree": false,
+  "final_iso": null,
+  "ver_reason": "The taxonomy in the adjudication is sound: Rakhshani = Western Balochi = bgn, so identifying \"Western/Rakhshani\" with bgn is correct. The problem is the has_single_standard=true claim itself. The strongest evidence the adjudicator leaned on (bgn as THE written standard) collapses under scrutiny:\n\n1. Authoritative linguistic references deny a single written standard. The University of Arizona Irani"
+ },
+ {
+  "macro": "doi",
+  "proposed_iso": "dgo",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "dgo",
+  "ver_reason": "I attempted to refute but the adjudication holds. Dataset check confirms only dgo (Dogri, glottocode dogr1250, India, institutional_status=1) is present; xnr (Kangri) is absent. Critically, the adjudication does not rest merely on dgo being the sole/most-populous member present — it rests on dgo being THE standardized literary variety, which is factually correct. Dogri (dgo) is one of India's 22 s"
+ },
+ {
+  "macro": "est",
+  "proposed_iso": "ekk",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "ekk",
+  "ver_reason": "I attempted to refute but the adjudication is correct. The est macrolanguage has exactly two members: ekk (Standard Estonian) and vro (Voro/South Estonian). ekk is THE standard written form by definition, not merely by population: ISO 639-3 names it literally \"Standard Estonian,\" it is the sole official language of Estonia under the Language Act, and it is the variety of government, education, med"
+ },
+ {
+  "macro": "fas",
+  "proposed_iso": "pes",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "pes",
+  "ver_reason": "I tried to refute and could not. (1) The harness's own adjudicator prompt names \"Persian -> Iranian Persian pes\" as a canonical single-standard case, so this is the intended ground truth. (2) pes is THE written standard on prestige/literary grounds, not merely population: Iranian Persian carries the deepest classical canon (Ferdowsi, Hafez, Saadi, Rumi) and is the default referent of \"Persian/Fars"
+ },
+ {
+  "macro": "ful",
+  "proposed_iso": null,
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": null,
+  "ver_reason": "I attempted to refute the null adjudication and could not. Multiple independent sources confirm Fula (ISO 639-3 macrolanguage 'ful') is a dialect continuum spanning ~5,000 km across roughly 20 West/Central African countries, with reduced mutual intelligibility between distant varieties and no single prestige variety to which all writers converge. Standardization is country/region-specific: the Wik"
+ },
+ {
+  "macro": "gon",
+  "proposed_iso": null,
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": null,
+  "ver_reason": "Attempted to refute the null adjudication by searching for any single Gondi member (esg=Aheri, gno=Northern, wsg=Adilabad) that constitutes THE established standard written form. The refutation fails; evidence consistently supports has_single_standard=false, standard_iso=null.\n\n(1) No literary standard: Gondi \"possesses no evidence of written literary works\" and is predominantly oral (folk songs/n"
+ },
+ {
+  "macro": "grn",
+  "proposed_iso": "gug",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "gug",
+  "ver_reason": "I attempted to refute the gug mapping but the evidence strongly upholds it. Paraguayan Guarani (gug) is not merely the most populous member; it is the only member with an institutionally codified written-literary standard. Independent sources confirm: (1) a standardized phonemic orthography established by Paraguay's Ministerio de Educacion y Cultura in 2004 (\"MEC 2004\"), taught in high schools nat"
+ },
+ {
+  "macro": "ipk",
+  "proposed_iso": "esi",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "esi",
+  "ver_reason": "I attempted to refute the mapping but the core conclusion holds. Verified facts: (1) The standard Iñupiaq Latin orthography was developed in 1946 by Roy Ahmaogak (an Iñupiaq from Utqiagvik/Barrow on the North Slope) with Eugene Nida, and became the school-system standard by the 1970s (corroborated by Wikipedia, ANLC, Omniglot, Tusaalanga). (2) The principal literary works, the major dictionary, an"
+ },
+ {
+  "macro": "kau",
+  "proposed_iso": "knc",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "knc",
+  "ver_reason": "Attempted to refute but the evidence robustly supports knc as THE written standard, not merely the most populous variety. The decisive fact: the officially-approved written standard, the \"Standard Kanuri Orthography,\" was developed by the Kanuri Research Unit and Kanuri Language Board specifically on the Maiduguri (Yerwa) dialect and approved in 1975 (corroborated by Wikipedia, Omniglot, and the D"
+ },
+ {
+  "macro": "kpe",
+  "proposed_iso": "xpe",
+  "confidence": "medium",
+  "verifier_agree": false,
+  "final_iso": null,
+  "ver_reason": "The adjudication picks xpe (Liberia Kpelle) as THE single written standard, but the evidence shows two parallel, separately-codified written traditions rather than one dominant standard, so has_single_standard should be null.\n\nKey refuting findings:\n1. Both varieties have their OWN complete Bible. Liberia Kpelle (xpe) has the full Bible (NT 1960s/1992, full Bible later). Guinea Kpelle (gkp) has it"
+ },
+ {
+  "macro": "lah",
+  "proposed_iso": null,
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": null,
+  "ver_reason": "I attempted to refute the null adjudication but could not. The evidence consistently supports has_single_standard=false and standard_iso=null.\n\nKey findings (Wikipedia \"Lahnda\", Britannica):\n1. \"Lahnda\"/\"Western Punjabi\" is an exonym coined by linguists (Grierson), not used by speakers themselves; it labels a dialect continuum, not a single standardized language.\n2. Multiple constituent varieties "
+ },
+ {
+  "macro": "lav",
+  "proposed_iso": "lvs",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "lvs",
+  "ver_reason": "I attempted to refute but the adjudication holds. ISO 639-3 macrolanguage \"lav\" (Latvian) has exactly two individual members: lvs (Standard Latvian) and ltg (Latgalian). lvs is genuinely THE standard written form, not merely the most populous: it is literally named \"Standard Latvian,\" is the codified official state language of Latvia regulated by the State Language Centre/Latvian Language Agency, "
+ },
+ {
+  "macro": "man",
+  "proposed_iso": null,
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": null,
+  "ver_reason": "Attempted to refute but the evidence confirms the adjudication (has_single_standard=false, standard_iso=null). Findings: (1) \"man\" (Manding/Mandingo) is a macrolanguage covering a west-to-east dialect continuum (Senegal to Burkina Faso) with four major named varieties (Bamanan, Maninka, Jula, Mandinka) and six ISO members; mnk/emk/mlq are only a subset. (2) No single unified Latin orthography exis"
+ },
+ {
+  "macro": "ori",
+  "proposed_iso": "ory",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "ory",
+  "ver_reason": "I tried to refute and could not. Evidence supports mapping ori -> ory.\n\n1) Only member present in the dataset: The candidate set (macro_candidates.json) and the dataset (index_data.csv, row \"Odia\"/ory present) list only ory for the ori macrolanguage. The other official ISO 639-3 member, spv (Sambalpuri/Kosli), per iso639_macro.tab, is NOT in the dataset (the only \"Sambalpur\" hits in index_data.csv"
+ },
+ {
+  "macro": "orm",
+  "proposed_iso": "gaz",
+  "confidence": "high",
+  "verifier_agree": false,
+  "final_iso": null,
+  "ver_reason": "REFUTED. The adjudication conflates \"most populous variety / de facto lingua franca\" with \"THE established standard written form\" — exactly the error the review warns against. Multiple independent sources explicitly state Oromo has no single codified standard: languagesgulper.com (\"There is no standard though the Central-Western variety tends to become the basis for one\"), and survey sources state"
+ },
+ {
+  "macro": "pus",
+  "proposed_iso": null,
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": null,
+  "ver_reason": "I attempted to refute the null adjudication but the evidence strongly supports it. Independent sources (Wikipedia/Omniglot on Pashto and Pashto dialects, academic comparisons of the Kandahari vs Yusufzai dialects) confirm Pashto has TWO standard written forms, not one: a Southern/Kandahari standard (pbt) that is the prestige/official variety in Afghanistan (government, education, broadcasting) and"
+ },
+ {
+  "macro": "que",
+  "proposed_iso": null,
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": null,
+  "ver_reason": "Attempted to refute but the evidence strongly upholds has_single_standard=false, standard_iso=null. (1) Sources explicitly state \"there is no consensus on what constitutes a standard\" for Quechua. A pan-Quechua unified ORTHOGRAPHY exists (Quechua Unified Alphabet, and Peru's MINEDU official standard spelling), but an orthography/alphabet is not a single standard written-literary variety — it is a "
+ },
+ {
+  "macro": "rom",
+  "proposed_iso": null,
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": null,
+  "ver_reason": "Agree with null. I attempted to refute the no-single-standard determination but the evidence overwhelmingly supports it. Authoritative sources (Wikipedia Romani language and Romani alphabets, Cambridge Handbook of Language Standardization ch. \"The Standardization of a Stateless Language\", European Roma Rights Centre, Manchester Romani Project/Matras) state there is no single standard orthography o"
+ },
+ {
+  "macro": "sqi",
+  "proposed_iso": "als",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "als",
+  "ver_reason": "I tried to refute on three fronts and all failed.\n\n(1) \"Should be null / no single standard?\" — Refuted. Albanian has exactly one codified, well-established written standard: Standard Albanian (Gjuha standarde shqipe), unified at the 1972 Congress of Orthography in Tirana and codified in the 1973 manual \"Drejtshkrimi i njesuar i gjuhes shqipe\" (36-letter Latin alphabet, still in force). It is the "
+ },
+ {
+  "macro": "srd",
+  "proposed_iso": null,
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": null,
+  "ver_reason": "The adjudication (has_single_standard=false, standard_iso=null) is correct and well-supported by sources.\n\nKey findings refuting any single-standard claim:\n1. Two co-equal written standards. Both Logudorese (src) and Campidanese (sro) are explicitly and repeatedly described in reference sources (Wikipedia, Cambridge volume) as \"one of the two written standards of the Sardinian language,\" each with"
+ },
+ {
+  "macro": "swa",
+  "proposed_iso": "swh",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "swh",
+  "ver_reason": "The adjudication (has_single_standard=true, standard_iso=swh) is correct and well-supported on standardization (not merely demographic) grounds.\n\nWHY swh IS THE GENUINE WRITTEN STANDARD (not just most populous): Standard Swahili / Kiswahili Sanifu is an explicitly and deliberately codified literary variety based on the Kiunguja dialect of Zanzibar City. It was formally standardized by the Inter-Te"
+ },
+ {
+  "macro": "syr",
+  "proposed_iso": "aii",
+  "confidence": "medium",
+  "verifier_agree": false,
+  "final_iso": null,
+  "ver_reason": "I can confirm the half of the reasoning concerning aii: Assyrian Neo-Aramaic does have a genuine established standard literary form (General Urmian, codified from 1836 by Justin Perkins, plus the 20th-century Iraqi Koine, together called \"Standard Assyrian\"). That part is sound.\n\nHowever, the load-bearing claim used to pick aii as THE single standard is that Chaldean Neo-Aramaic (cld) \"does not ha"
+ },
+ {
+  "macro": "tmh",
+  "proposed_iso": null,
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": null,
+  "ver_reason": "Attempted to refute the \"no single standard\" verdict and failed; the evidence corroborates it. (1) The ISO 639-3/SIL registry lists all four members (taq, thv, thz, ttq) as active individual languages with equal status and names no standard or prestige variety within the tmh macrolanguage. (2) There is demonstrably no unified pan-Tuareg orthography: Mali uses the DNAFLA Latin standard (adopted 196"
+ },
+ {
+  "macro": "zap",
+  "proposed_iso": null,
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": null,
+  "ver_reason": "I tried to refute the null mapping and failed; the adjudication (has_single_standard=false, standard_iso=null) holds.\n\nEvidence reviewed:\n1) macro_candidates.json lists 33 Zapotec members. Zapotec is not one language but a branch of the Oto-Manguean family comprising dozens of mutually unintelligible varieties across Oaxaca; there is no pan-Zapotec written-literary standard.\n\n2) Dataset resource s"
+ },
+ {
+  "macro": "zha",
+  "proposed_iso": "zyb",
+  "confidence": "high",
+  "verifier_agree": true,
+  "final_iso": "zyb",
+  "ver_reason": "The mapping zha->zyb survives adversarial scrutiny. (1) zyb is THE standard, not merely the most populous: multiple independent sources (Wikipedia Standard Zhuang/Yongbei Zhuang, DBpedia, Ethnologue context) confirm Standard Zhuang's pronunciation is deliberately based on the Yongbei Zhuang (zyb) dialect of Shuangqiao Town, Wuming District, Guangxi (with Fuliang influence). The Wuming dialect with"
+ }
+]
