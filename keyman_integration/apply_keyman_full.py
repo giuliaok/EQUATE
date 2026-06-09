@@ -65,8 +65,9 @@ shutil.copy2(CSV, backup)
 with open(CSV, newline="") as f: raw = f.readlines()
 hdr = [h.strip() for h in next(csv.reader([raw[0]], skipinitialspace=True))]
 iso_i, col_i, ncol = hdr.index("iso_code"), hdr.index(COL), len(hdr)
-assert col_i == ncol - 1, f"{COL} must be the last column"
-width = len(raw[1].rstrip("\n").rsplit(",", 1)[1])  # current field width (e.g. 19)
+# COL need not be the last column; all columns AFTER it must be comma-free
+n_after = ncol - 1 - col_i
+width = len(raw[1].rstrip("\n").rsplit(",", n_after + 1)[1])  # current field width
 
 changed = []
 for n in range(1, len(raw)):
@@ -76,8 +77,10 @@ for n in range(1, len(raw)):
     old = int(fields[col_i]) if fields[col_i].strip().lstrip("-").isdigit() else 0
     new = count_for(iso)
     if new != old: changed.append((fields[2].strip(), iso, old, new))
-    head = raw[n].rstrip("\n").rsplit(",", 1)[0]
-    raw[n] = f"{head},{str(new).rjust(width)}\n"
+    parts = raw[n].rstrip("\n").rsplit(",", n_after + 1)  # [body, COL, *trailing]
+    assert parts[1].strip() == fields[col_i].strip(), f"field misalignment at row {n}"
+    parts[1] = str(new).rjust(len(parts[1]))
+    raw[n] = ",".join(parts) + "\n"
 with open(CSV, "w", newline="") as f: f.writelines(raw)
 
 # 6. verify + report
@@ -85,7 +88,7 @@ with open(CSV, newline="") as f:
     r = csv.reader(f, skipinitialspace=True); next(r)
     bad = sum(1 for row in r if len(row) != ncol)
 total = sum(1 for l in raw[1:] if l.strip())
-nonzero = sum(1 for l in raw[1:] if l.strip() and int(l.rstrip().rsplit(",", 1)[1]) > 0)
+nonzero = sum(1 for l in raw[1:] if l.strip() and int(l.rstrip().rsplit(",", n_after + 1)[1]) > 0)
 newly = [c for c in changed if c[2] == 0 and c[3] > 0]
 lost = [c for c in changed if c[2] > 0 and c[3] == 0]
 print(f"backup: {backup}")

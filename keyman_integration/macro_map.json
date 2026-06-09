@@ -1,14 +1,21 @@
 {
   "ara": "arb",
+  "aze": "azj",
   "doi": "dgo",
   "est": "ekk",
   "fas": "pes",
   "grn": "gug",
+  "iku": "ike",
   "ipk": "esi",
   "kau": "knc",
   "lav": "lvs",
+  "mlg": "plt",
+  "nep": "npi",
   "ori": "ory",
   "sqi": "als",
   "swa": "swh",
-  "zha": "zyb"
+  "uzb": "uzn",
+  "yid": "ydd",
+  "zha": "zyb",
+  "zho": "cmn"
 }
