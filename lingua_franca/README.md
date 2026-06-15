@@ -124,3 +124,78 @@ Describe this as a reproducible heuristic ecology layer, not as ground truth
 about community preferences. It should be used to contextualize the index and
 reviewer response, not as proof that a community wants direct LLM support or
 that bridge-language access replaces direct language support.
+
+---
+
+# EGIDS-grounded ecology: `egids_level` + `ecology_egids_type`
+
+The heuristic `language_ecology_primary_type` above is a homemade point score,
+which is hard to defend to a reviewer ("how did you get these numbers?"). This
+is a **data-backed replacement**, grounded in Ethnologue's **Language Status =
+EGIDS** (Expanded Graded Intergenerational Disruption Scale; Lewis & Simons
+2010). Both columns are added by `apply_ecology_egids.py`; the old column is left
+intact for comparison.
+
+- `egids_level` — the bare EGIDS scale code only: `0,1,2,3,4,5,6a,6b,7,8a,8b,9,10`
+  (blank if Ethnologue has no / "Unestablished" status).
+- `ecology_egids_type` — the derived label, same vocabulary as the heuristic
+  column: `standardized_bridge | bridge | local_standardized | local`.
+
+EGIDS level meanings: 0 International, 1 National, 2 Provincial, 3 Wider
+Communication, 4 Educational, 5 Developing, 6a Vigorous, 6b Threatened,
+7 Shifting, 8a Moribund, 8b Nearly extinct, 9 Dormant, 10 Extinct.
+
+## Source & join
+
+Ethnologue `Language Status`, joined by **ISO 639-3** (taken from each
+Ethnologue page URL `/language/<iso>`; the `iso_639_3` column is empty).
+Coverage: **3,977 / 6,003** have an EGIDS level; 2,026 blank.
+
+**Copyright:** only the bare EGIDS level *code* is stored — never Ethnologue's
+verbatim status prose. The EGIDS scale itself is published methodology
+(Lewis & Simons 2010). Cite Ethnologue (Eberhard, Simons & Fennig) + EGIDS.
+
+## How `ecology_egids_type` is derived
+
+Every input is named — no opaque scoring:
+
+- **standardized** = `egids_level` in {0,1,2,3,4,5} (institutional … developing);
+  OR, when `egids_level` is blank, `institutional_status == 1`. (This fallback
+  rescues major languages whose EGIDS is missing/"Unestablished" in this CSV,
+  e.g. French, Spanish, Swahili.)
+- **bridge** = `egids_level` in {0,1,2,3} (wider-communication tiers);
+  OR used across **≥ 5 countries**;
+  OR (`institutional_status == 1` AND used across ≥ 3 countries).
+- **label**:
+  - standardized & bridge → `standardized_bridge`
+  - bridge only → `bridge`
+  - standardized & not bridge → `local_standardized`
+  - otherwise → `local`
+
+Country spread = distinct countries in `country_iso_code` +
+`other_country_iso_codes`. `n_speakers` is deliberately **not** used (it carries
+placeholder sentinels).
+
+**Current setting (option A):** EGIDS 3 (Wider Communication) counts as
+standardized, so contact/trade languages land in `standardized_bridge` and the
+plain `bridge` label is empty. Option B (move EGIDS 3 out of standardized) would
+relabel those as `bridge`.
+
+## Results
+
+Distribution: `local` 4,772 · `local_standardized` 1,165 ·
+`standardized_bridge` 66.
+
+Agreement with the heuristic `language_ecology_primary_type`: **same label for
+82%** of languages, **differ for 18%** (under 20%). ~945 of the differences are
+`local → local_standardized` — languages the heuristic missed but that EGIDS
+records as standardized/developing.
+
+## Reproduce
+
+```sh
+python3 lingua_franca/apply_ecology_egids.py
+```
+
+Backs up `index_data.csv` into `lingua_franca/` first, then appends the two
+columns (preserving the space-padded formatting).
