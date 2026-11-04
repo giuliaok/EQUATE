@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use EQUATE in your research, please cite it as below."
+title: "EQUATE: A Composite Index of Language Equity in Data and Technology"
+authors:
+  - family-names: "FILL-IN"
+    given-names: "FILL-IN"
+# Add further authors here.
+year: 2025
+version: "1.0.0"
+# Replace with the DOI / proceedings reference once available.
+# doi: 10.0000/zenodo.0000000
+# preferred-citation:
+#   type: conference-paper
+#   title: "..."
+#   collection-title: "Proceedings of ..."
+#   year: 2025

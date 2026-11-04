@@ -45,7 +45,7 @@ def calculate_typological_distance(df, u):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        logging.error("Usage: python unesco.py <chunk_file>")
+        logging.error("Usage: python typ_similarities_parallel.py <chunk_file>")
         sys.exit(1)
     
     chunk_file = sys.argv[1]

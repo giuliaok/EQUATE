@@ -22,7 +22,7 @@ echo "✅ Dataset split into chunks."
 
 # Process each chunk in parallel
 echo "🚀 Processing chunks in parallel..."
-find "$chunks_folder" -name "chunk_*.csv" | parallel -j 4 python unesco.py {}
+find "$chunks_folder" -name "chunk_*.csv" | parallel -j 4 python typ_similarities_parallel.py {}
 
 # Move processed files to the results folder
 echo "📂 Moving processed files to $processed_folder..."
