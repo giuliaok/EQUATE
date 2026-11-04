@@ -11,7 +11,7 @@ single, interpretable, per-language index, together with the code to collect
 the underlying data, compute the index, and analyse it geographically and over
 time.
 
-> **Note on provenance.** This repository contains the full data-collection and
+> **Note on provenance.** This repository contains the 
 > analysis pipeline. The large raw and intermediate data files are **not**
 > tracked here (they are sizeable and governed by the terms of their original
 > sources); scripts and notebooks read them from a local `data/` directory. See
@@ -153,7 +153,7 @@ EQUATE integrates (among others):
   policy.
 
 Please consult and comply with each source's terms of use and licensing when
-re-collecting or redistributing data.
+re-collecting or redistributing data (!!)
 
 ---
 
@@ -191,10 +191,6 @@ drivers. `urielplus` downloads typological databases on first use.
 4. Run the notebooks in `index/index_computation/` to compute the index.
 5. Explore and visualise with the notebooks in `analysis/`.
 
-> Notebooks are provided with their original outputs as a record of the results
-> reported in the paper. Re-running them end to end requires the full `data/`
-> inputs and, for the scrapers, live network access to the respective sources.
-
 ---
 
 ## Longitudinal analyses
@@ -212,19 +208,6 @@ EVs) to characterise diffusion dynamics.
 
 ---
 
-## Conventions & notes
-
-- **Paths.** All file paths are relative to the repository root and point into
-  `data/`. There are no machine-specific absolute paths.
-- **Secrets.** No API keys or credentials are committed. The one place that
-  would use an OpenAI key loads it from a local key file (that code is commented
-  out); provide your own key there if you choose to run it.
-- **Rate limits.** The scrapers pause between requests on purpose. Lowering the
-  sleep intervals risks being blocked by the upstream services.
-- **Reproducibility of outputs.** Because several sources are live and change
-  over time, re-collected figures may differ slightly from the committed ones.
-
----
 
 ## Citation
 
@@ -233,19 +216,17 @@ citation is provided in [`CITATION.cff`](CITATION.cff); please complete the
 author and venue fields before release.
 
 ```bibtex
-@inproceedings{equate,
-  title     = {EQUATE: A Composite Index of Language Equity in Data and Technology},
-  author    = {TODO},
-  booktitle = {TODO},
-  year      = {2025}
+@article{occhini2026artificial,
+  title={Artificial intelligence is creating a new global linguistic hierarchy},
+  author={Occhini, Giulia and Tanaka-Ishii, Kumiko and Barford, Anna and Tikochinski, Refael and Hu, Songbo and Reichart, Roi and Zhou, Yijie and Claus, Hannah and Petti, Ulla and Vuli{\'c}, Ivan and others},
+  journal={arXiv preprint arXiv:2602.12018},
+  year={2026}
 }
+
 ```
 
 ---
 
 ## License
 
-Released under the [MIT License](LICENSE). The license was added as a sensible
-permissive default — **please confirm it matches your intended terms and fill
-in the copyright holder(s)** before publication. Note that third-party data
-collected by this pipeline remains subject to its own licenses and terms of use.
+Released under the [MIT License](LICENSE). 
