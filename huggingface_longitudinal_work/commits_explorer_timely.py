@@ -7,21 +7,20 @@ from multiprocessing import Pool, cpu_count
 import time
 
 REQUEST_COUNT = 0
-REQUEST_LIMIT = 30 #higher than this I get blocked badly, it is really a matter of finding the right amount of requests....
+REQUEST_LIMIT = 30  # Requests before pausing; higher values tend to trigger rate limiting.
 SLEEP_TIME = 20
 
 
 def make_request(url):
     global REQUEST_COUNT
     if REQUEST_COUNT >= REQUEST_LIMIT:
-        print(f"I am stopping for {SLEEP_TIME} seconds")
+        print(f"Rate limit reached; pausing for {SLEEP_TIME} seconds.")
         time.sleep(SLEEP_TIME)
         REQUEST_COUNT = 0
     response = requests.get(url)
-    print(response)
     REQUEST_COUNT += 1
     if response.status_code != 200:
-        print("erroreeeeeeeeee: Status code", response.status_code)
+        print(f"Request failed with status code {response.status_code}")
         return None
     return response.text
 
