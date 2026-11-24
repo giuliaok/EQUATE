@@ -4,9 +4,7 @@
 
 EQUATE measures how equitably the world's languages are represented across the
 data, models, and infrastructure that modern language technology is built on.
-It brings together dozens of heterogeneous sources — HuggingFace models and
-datasets, web and parallel corpora, language-documentation archives, speaker
-demographics, and national socio-economic and connectivity indicators — into a
+It brings together dozens of heterogeneous sources into a
 single, interpretable, per-language index, together with the code to collect
 the underlying data, compute the index, and analyse it geographically and over
 time.
